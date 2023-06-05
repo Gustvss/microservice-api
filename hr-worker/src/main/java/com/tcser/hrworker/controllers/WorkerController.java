@@ -1,4 +1,4 @@
-package com.tcser.hrworker.controller;
+package com.tcser.hrworker.controllers;
 
 import java.util.List;
 
